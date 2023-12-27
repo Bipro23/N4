@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f3f3; /* Romantic background color */
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.content {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff; /* White background */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.next-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #e84a5f; /* Romantic red color */
+    color: #fff; /* White text color */
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+video {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 400px;
+}
